@@ -1,0 +1,15 @@
+{
+  "name": "meetup-random-prize-drawing",
+  "version": "0.0.1",
+  "description": "meetup-random-prize-drawing",
+  "main": "app.js",  
+  "dependencies" : {
+    "express"  :  "*",        
+    "underscore": "*",    
+    "request": "*",
+    "URIjs": "*"
+  },
+  "repository": "",
+  "author": "kwu",
+  "license": "BSD"
+}
